@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-06T23:23:06.522Z'
+datePublished: '2016-06-06T23:23:13.584Z'
 sourcePath: _posts/2016-05-18-massimo-vignellis-signed-2012-nyc-subway-diagram.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - diagram
 related: []
 author: []
-dateModified: '2016-06-06T23:23:05.059Z'
+dateModified: '2016-06-06T23:23:04.673Z'
 title: Massimo Vignelli's Signed 2012 NYC Subway Diagram
 app_links: []
 publisher:

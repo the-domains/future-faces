@@ -1,0 +1,14 @@
+layout_spectrum: 0.6060412374790758
+typography_spectrum: 0.8851514649577439
+color:
+  brandStrength: 0.3688429305329919
+  lightness: 0.3466780483722687
+  saturation: 0.4611358225811273
+  rhythmicContrast: 0.0998921082355082
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: future faces
